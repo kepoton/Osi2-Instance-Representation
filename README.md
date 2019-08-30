@@ -1,4 +1,9 @@
-This is an implementation for representing an instance of an optimization problem.
+#  Implementation for representing an instance of an optimization problem.
+
+Some example code is available in the exampleCode.cpp file
+To build it, run make in this directory, it will create a exempleCode executable
+
+-----------------------------------------------------------
 
 Here is the basic functionning of the representation :
 
