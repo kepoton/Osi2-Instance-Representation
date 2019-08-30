@@ -43,3 +43,4 @@ What to do next ?
 - Add new functionnalities to existing classes
 - Figure out how to interface with the Plugin Manager
 - Add support for this representation in the various solver shims
+- Implement the summation notation ?
